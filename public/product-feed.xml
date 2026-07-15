@@ -4,6 +4,18 @@
     <title>Ay.mutagim</title>
     <link>https://example.com</link>
     <description>Product feed for Ay.mutagim</description>
-    <lastBuildDate>Wed, 15 Jul 2026 21:49:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 22:00:34 GMT</lastBuildDate>
+    <item>
+      <g:id>f1e1d534-61ab-4422-92af-bb1b5e0f646f</g:id>
+      <g:title>דזלדחדל</g:title>
+      <g:description>דזלדחדל</g:description>
+      <g:link>https://example.com/product/dzldchdl-uvysdy</g:link>
+      <g:image_link>https://example.com/assets/product-1784152762049-3fcf1f.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>20.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Ay.mutagim</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
